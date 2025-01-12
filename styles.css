@@ -372,6 +372,14 @@ h1, h2, h3, h4{
 
 }
 
+
+.advert-right{
+    background-image: url(images/Shape.png);
+    background-size: cover;
+    background-position: right;
+    background-repeat: no-repeat;
+}
+
 .advert-right {
     width: auto;
     height: auto;
